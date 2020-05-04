@@ -1,2 +1,2 @@
 # NLP
-A simple classification problem for a text collection
+A simiple classification problem for a text collection.
